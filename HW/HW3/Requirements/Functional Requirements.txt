@@ -1,0 +1,24 @@
+﻿Goal:
+Create an interactive diff tool that integrates humor into the Git merging process through "snickering" sound effects, providing a delightful experience during code merges.
+
+
+Non-Goal:
+Develop advanced machine learning models to dynamically generate new snickering sounds based on merge complexity.
+
+
+Non-Functional Requirement 1: User Access Control
+The system must restrict access to the snickering feature based on user roles (e.g., regular users, admins, PMs)
+
+
+Functional Requirements:
+* Implement role-based access control (RBAC) where only PMs and admins can modify the snickering settings.
+* Ensure regular users can only trigger the snickering sounds during merges but cannot alter the sound settings.
+
+
+Non-Functional Requirement 2: A/B Testing for User Studies
+* The system must support random assignment of users into control and experimental groups for running user studies on the SnickerSync feature.
+
+
+Functional Requirements:
+* Implement a backend service that randomly assigns users to a control or experimental group for testing the effectiveness of snickering during merges.
+* Log and track user interactions with the snickering feature to provide insights for the PMs running the user studies.
