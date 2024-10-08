@@ -1,0 +1,11 @@
+﻿1. Complete these user stories:
+   * As a vanilla git power-user that has never seen GiggleGit before, I want to understand how GiggleGit’s merge process works and determine if it will improve my current workflow. 
+   * As a team lead onboarding an experienced GiggleGit user, I want to make sure that training process can be smooth and efficient for new member to understand the workflow of the team using GiggleGit
+2. Create a third user story, one task for this user story, and two associated tickets.
+   * As a new developer trying GiggleGit for the first time, I want to quickly set up my environment and understand the basic features so I can start working on a project immediately.
+   * Task: Create a "Getting Started" guide for new users.
+   * Ticket 1: Design the onboarding tutorial page
+   * Ticket 2: Implement step-by-step walkthrough in the UI
+3. This is not a user story. Why not? What is it?
+   * As a user I want to be able to authenticate on a new machine
+   * This is not a user story because it does not provide relevant context of the user (the why), and does not state what goal the user wants to achieve upon authenticating on a new machine.
